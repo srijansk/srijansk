@@ -1,6 +1,6 @@
 # Hi there, I'm Srijan Saket 👋
 
-I'm a researcher/practioner and engineer specializing in **Agentic AI** and **Large-Scale Machine Learning Systems**. My work focuses on building intelligent agents that can reason, autonomously perform complex tasks, and significantly boost practitioner productivity.
+I'm a builder/practioner and engineer specializing in **Agentic AI** and **Large-Scale Machine Learning Systems**. My work focuses on building intelligent agents that can reason, autonomously perform complex tasks, and significantly boost practitioner productivity.
 
 ## 🔬 Current Focus
 
