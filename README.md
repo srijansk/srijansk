@@ -5,7 +5,7 @@ I build AI agents and large-scale ML systems. Currently obsessed with multi-agen
 #### 🔨 What I'm Building
 
 - **[Agent Relay](https://github.com/srijansk/agent-relay)** — Docker Compose for AI agents. Define multi-agent workflows as YAML, orchestrate from your terminal. Works with Cursor, Codex, Aider — any tool.
-- **Agentic AI systems** at [Pavo AI](https://pavoai.dev) — intelligent agents with reasoning capabilities for autonomous task execution
+- **Agentic AI systems** at [Pavo AI](https://www.pavoai.com/) — intelligent agents with reasoning capabilities for autonomous task execution
 
 #### 📚 Background
 
