@@ -15,7 +15,7 @@ Building the context layer that AI agents reason over — at enterprise scale at
 - **Sourcegraph** (IC-5 MLE) — LLM-driven code-search quality.
 - **ShareChat** (Staff MLE, 7 years) — scaled recommendations from 1M → 200M users; multi-objective ranking, real-time feature stores serving millions of requests/sec.
 - **Fidelity Investments** — algorithmic strategy systems.
-- **IIT Kanpur** — B.Tech.
+- **IIT Kanpur** — Bachelors and Masters.
 
 Publications at **WWW**, **RecSys**, **SIGIR**, **CIKM**. **US Patent** on human-assisted chatbot conversations. **Book co-author** — practical guide to applied ML. **Keynote** — FIRE 2023 (Industrial track). **PC member** — CIKM 2024 Industry track.
 
