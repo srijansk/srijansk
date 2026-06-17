@@ -1,10 +1,12 @@
 ### Hi, I'm Srijan.
 
-Building the context layer that AI agents reason over — at enterprise scale at [Pavo AI](https://www.pavoai.com/), and at workflow scale in [agent-relay](https://github.com/srijansk/agent-relay). Ten years on production recommender systems before that. Bringing the recsys playbook to a problem the agent-memory world hasn't recognised as a recommendation problem.
+Building the context layer that AI agents reason over — at enterprise scale at [Pavo AI](https://www.pavoai.com/), and in the open with [crewlore](https://github.com/srijansk/crewlore) and [agent-relay](https://github.com/srijansk/agent-relay). Ten years on production recommender systems before that. Bringing the recsys playbook to a problem the agent-memory world hasn't recognised as a recommendation problem.
 
 ---
 
 #### 🔨 Currently building
+
+- **[crewlore](https://github.com/srijansk/crewlore)** — a local-first compiler that turns AI-coding-agent (Claude Code) sessions into a versioned, plaintext, citable team-knowledge layer in your git repo. Every claim carries a verbatim anchor back to the source line it came from — verifiable, not hallucinated. Compiled on the public [pydantic-ai](https://github.com/pydantic/pydantic-ai) repo (17.3k⭐): 18 claims across 9 areas, 100% anchor fidelity. `pipx install crewlore`. Launched June 2026.
 
 - **[agent-relay](https://github.com/srijansk/agent-relay)** — multi-agent workflows that learn from their own past runs. Plans, reviews, build logs and audits live in your git repo as markdown; `relay distill --llm` compresses past reviewer rejections into forward-looking lessons the next planner reads automatically. v0.2 launched April 2026. [Captured proof](https://github.com/srijansk/agent-relay/tree/main/docs/demo-output) — Run 1 (no lessons) hit the iteration cap; Run 2 (lessons in prompt) was approved on first pass with the reviewer citing each lesson by name.
 
